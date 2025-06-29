@@ -1,0 +1,8 @@
+{
+  "REGISTER":   { "type": "REGISTER" },
+  "REQUEST":    { "type": "REQUEST" },
+  "GRANT":      { "type": "GRANT" },
+  "FINISH":     { "type": "FINISH" },
+  "ACK_FINISH": { "type": "ACK_FINISH" },
+  "STATUS":     { "type": "STATUS" }
+}
